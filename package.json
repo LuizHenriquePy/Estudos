@@ -1,0 +1,30 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "description": "Estudos de programação.",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "nodejs",
+    "reactjs",
+    "nextjs",
+    "python",
+    "django",
+    "flask"
+  ],
+  "homepage": "https://github.com/LuizHenriquePy/Estudos#readme",
+  "bugs": {
+    "url": "https://github.com/LuizHenriquePy/Estudos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LuizHenriquePy/Estudos.git"
+  },
+  "license": "MIT",
+  "author": "Luiz Henrique",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
